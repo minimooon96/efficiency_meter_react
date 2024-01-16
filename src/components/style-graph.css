@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background-color: lightslategrey;
+}
+
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.section {
+    background-color: lightgoldenrodyellow;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    max-width: 600px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#fileInput {
+    margin-bottom: 20px;
+}
+
+.charts-container, .table-container {
+    display: flex;  
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.chart, table {
+    flex: 1; 
+}
+
+.chart-container {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
