@@ -1,8 +1,11 @@
-Efficiency meter is a time tracking tool that is used for adding user tasks, record the time, store it in the cloud.
-It also generate Analytics based on time spent on multiple tasks
+[Efficiency Meter](https://efficiency-meter.vercel.app/)
 
+Efficiency Meter is a versatile time tracking application that simplifies task management. 
 
-The Efficiency meter web-app is live on
-[Efficiency Meter] (https://efficiency-meter.vercel.app/)
+Users can effortlessly add tasks, record time spent, and securely store data in the cloud for cross-device accessibility. 
 
-The Final Review PPT and Final Report PDF files are uploaded in the git hub successfully
+The app's standout feature lies in its robust analytics, offering users valuable insights into their time allocation across multiple tasks, empowering them to optimize productivity and make informed decisions. 
+
+With its user-friendly interface and powerful functionality, Efficiency Meter is a go-to tool for those seeking efficient time management and performance optimization.
+
+The Final Review PowerPoint (PPT) and the Final Report in PDF format have been successfully uploaded to our GitHub repository.
