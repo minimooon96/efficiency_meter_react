@@ -1,4 +1,4 @@
-[Efficiency Meter](https://efficiency-meter.vercel.app/)
+Link to website [Efficiency Meter](https://efficiency-meter.vercel.app/)
 
 Efficiency Meter is a versatile time tracking application that simplifies task management. 
 
